@@ -1,6 +1,4 @@
 #!/bin/bash
-echo "enter any two numbers"
-read NUMBER1 NUMBER2
-#read NUMBER2
-SUM=$(($NUMBER1+$NUMBER2))
-echo "sum of two numbers is $SUM"
+NUMBER1=2
+NUMBER2=10
+echo "sum is $NUMBER1+$NUMBER2"
