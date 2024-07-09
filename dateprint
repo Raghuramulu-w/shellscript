@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "hai good morning "
+echo "script is startting "
 DATE=$(date)
 echo "today date and time is $DATE"
