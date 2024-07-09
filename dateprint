@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hai good morning "
+DATE=$(date)
+echo "today date and time is $DATE
