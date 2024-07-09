@@ -1,5 +1,5 @@
 #!/bin/bash
-PERSON1=ramesh
-PERSON2=suresh
+PERSON1=ram
+PERSON2=rahem
 echo "$PERSON1:hai $PERSON2"
 echo "$PERSON2: hai $PERSON1"
