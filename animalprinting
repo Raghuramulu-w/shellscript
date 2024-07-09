@@ -1,4 +1,4 @@
 #!/bin/bash
 ANIMALS=("DOG" "PIG" "SNAKE" "COW")
 echo "first animal is ${ANIMALS[0]}"
-echo "second animal is ${ANIMALSS[1]}"
+echo "second animal is ${ANIMALS[1]}"
