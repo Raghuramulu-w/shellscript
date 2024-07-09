@@ -1,4 +1,5 @@
 #!/bin/bash
 read USERNAME
-echo "print username is $USERNAME"
-echo "print password is $PASSWORD"
+read PASSWORD
+echo " username is $USERNAME"
+echo " password is $PASSWORD"
