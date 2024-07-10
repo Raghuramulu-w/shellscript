@@ -10,4 +10,6 @@ fi
 yum install mysql -y
 echo "installation completed"
 echo  "hai"
+echo "date=$(date)"
+echo "hai"
 
