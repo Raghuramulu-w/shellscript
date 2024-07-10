@@ -1,7 +1,8 @@
 #!/bin/bash
 Id=$(id -u)
 if [ id -ne 0 ]
-echo "error try to install with root access"
+then
+   echo "error try to install with root access"
 else
-echo "you are root and proceed to install"
+    echo "you are root and proceed to install"
 fi 
