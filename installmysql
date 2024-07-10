@@ -8,4 +8,5 @@ else
     echo "you are root and proceed to install"
 fi 
 yum install mysql -y
+echo "installation completed"
 
