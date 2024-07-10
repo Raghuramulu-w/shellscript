@@ -1,6 +1,6 @@
 #!/bin/bash
 Id=$(id -u)
-if [ Id -ne 0 ]
+if [ $Id -ne 0 ]git
 then
    echo "error try to install with root access"
 else
